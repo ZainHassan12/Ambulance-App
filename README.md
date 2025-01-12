@@ -3,6 +3,6 @@
 A new Flutter project.
 
 This includes:
-Firebase OTP verification
-Firebase Firestore
+Firebase OTP verification, 
+Firebase Firestore, 
 Google Map Implementation
