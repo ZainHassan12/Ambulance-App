@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "930866498377",
+    "project_id": "oorvi-ambulance-app",
+    "storage_bucket": "oorvi-ambulance-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930866498377:android:0979c4989d007b5857a898",
+        "android_client_info": {
+          "package_name": "com.example.oorvi_ambulance_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEIx9x9dHS8WA-kDf026ZN05G8uDhrmTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
